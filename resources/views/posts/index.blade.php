@@ -81,6 +81,12 @@
 			<img src="/images/green.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
 			<figcaption class="figure-caption text-center"></figcaption>
 		</figure>
+
+		<figure class="figure">
+			<img src="/images/exam.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+			<figcaption class="figure-caption text-center"></figcaption>
+		</figure>
+
 		<hr>
 		<p>Chúng ta chỉ thường tập trung sử dụng màu sắc trong việc tạo sự đặc trưng trong thương hiệu mà quên đi khả năng của nó trong việc tạo ra cảm xúc cho khách hàng. Chúng ta hoàn toàn có thể sử dụng màu sắc để tạo ra những cảm xúc khác nhau và dùng nó để tăng khả năng cạnh tranh với đối thủ.</p>
 		<p>Không có màu sắc nào là toàn diện và là best trong thiết kế cả. Chúng ta nên tập trung vào đối tượng chúng ta nhắm tới để lấy ý tưởng cũng như là thu thập các ý kiến trong giai đoạn đầu để tạo ra một thiết kế mang lại trải nghiệm người dùng tốt nhất.</p>
