@@ -1,7 +1,7 @@
 ## Thuyết trình về màu sắc - Lớp web app
 ### Thông tin nhóm:
-- Lê Điền Phúc
-- Phan Việt Phúc
+- 15520637 Lê Điền Phúc
+- 15520650 Phan Việt Phúc
 - Trần Minh Luân
 - Đặng Xuân Phóng
 
